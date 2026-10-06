@@ -1,0 +1,5 @@
+Coloca aqui los 4 archivos CSV del dataset (Kaggle):
+  - ecommerce_sales_customer_analytics_150k.csv
+  - order_items.csv
+  - customer_master.csv
+  - product_catalog.csv
